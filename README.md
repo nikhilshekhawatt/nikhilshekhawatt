@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Shekhawat! 👋
 
-🎓 1st Year INT M.Tech Student at VIT Bhopal University
+🎓 1st Year int. MTech Student at VIT Bhopal University
 🌱 I hope to learn programming, AI, and digital skills this year
 💻 Currently exploring GitHub, Python, and Digital Tools
 
@@ -22,6 +22,7 @@
 **nikhilshekhawatt/nikhilshekhawatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
